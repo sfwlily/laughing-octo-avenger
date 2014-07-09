@@ -3,7 +3,7 @@ laughing-octo-avenger
 
 Teaching repo for StonyBrook SWC.
 
-for details, see this web page:
+for details, see this web page. or not. i don't care.:
 [repo](http://guyrt.github.io/2014-07-08-stonybrook/)
 
 #The tales of Psychic-Octo-Bear
